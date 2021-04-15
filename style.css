@@ -1,0 +1,137 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    background-color: #ededed;
+    
+}
+.navbar-default {
+    background-color: white;
+} 
+.navbar-brand {
+    background-color: #4eaca7;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+      
+}   
+.add-summary {
+    background-color: white;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 50px;   
+}
+#sum-pic {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+#sum-pic-detail {
+    float: left;
+    max-width: 95%;
+    height: auto;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.summary {
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+#sum-h1 {
+    color: #4eaca7;
+    font-size: 36px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: 'Times New Roman', Times, serif;   
+}
+.div_vis_img {
+    width: 100%;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.vis_img {
+    width: 150px;
+    height: 150px;
+    padding-right: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+#vis-h2 {
+    color: #4eaca7;
+    font-size: 24px;
+    padding-top: 15px;
+    padding-bottom: 5px;  
+    margin-left: 15px;
+    font-family: 'Times New Roman', Times, serif;  
+}
+.hr-page {
+    color: rgb(105, 103, 102);
+    border-width: 2px;
+    
+}
+.comp {
+    margin-bottom: 60px;
+    width: 100%;
+    background-color: white; 
+}
+.comp-h4 {
+    color: #4eaca7;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: 'Times New Roman', Times, serif;  
+}
+.comp-h2 {
+    color: #4eaca7;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;  
+}
+#comp-p {
+    font-size: 16px;
+    text-align: center;
+    background-color: white;
+}
+.comp_img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.data-city {
+    background-color: white;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-right: 40px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.data-h1 {
+    color: rgb(37, 175, 157);
+    font-size: 36px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-family: 'Times New Roman', Times, serif;  
+}
+.data-p {
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 50px; 
+}
+
+
+
+
+
+
+
+
