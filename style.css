@@ -128,7 +128,15 @@ body {
     margin-bottom: 50px; 
 }
 
+@media only screen and (max-width: 767px) {
+    body {
+        background-color: white;
+    }
 
+    .navbar-header {
+        background-color: #4eaca7;
+    }
+}
 
 
 
