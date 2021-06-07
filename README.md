@@ -6,6 +6,8 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ![Images/landingResize.png](Images/landingResize.png)
 
+<b>Visit the [live website](https://tnguyen0306.github.io/web-design-Web-Visualization-Dashboard/) for the final result.<b>
+
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
